@@ -7,6 +7,8 @@ The objective was to transform raw educational data into a structured, interacti
 
 The dashboard follows a clean, user-friendly design and applies best practices in data modeling, DAX calculations, and data storytelling.
 
+---
+
 🎯 Business Objectives
 
 The main goals of this analysis were to:
@@ -24,6 +26,10 @@ Highlight top-performing courses based on subscribers and reviews
 Provide data-driven insights for better business decisions
 
 This project simulates a real-world scenario for education platforms and digital learning providers.
+
+
+---
+
 
 🧭 Dashboard Structure
 
@@ -50,6 +56,9 @@ Top Courses by Subscribers
 📈 Key Insight:
 Web Development dominates subscriber count, indicating strong and consistent market demand compared to other subjects.
 
+
+---
+
 🔹 2. Price Analysis Page
 
 This page focuses on pricing strategies and user behavior patterns:
@@ -72,6 +81,9 @@ Paid courses show stronger engagement and higher-quality reviews.
 
 Pricing impacts perceived value and subscriber behavior.
 
+
+---
+
 🔹 3. Details Page
 
 This page enables detailed course-level analysis with interactive filters and drill-down capabilities:
@@ -85,6 +97,10 @@ Dynamic slicing
 Comparative analysis
 
 This page allows decision-makers to identify improvement opportunities and top-performing content areas.
+
+
+---
+
 
 🛠️ Tools & Technologies Used
 🔹 Power BI
@@ -132,6 +148,9 @@ Line Charts
 Slicers & Filters
 
 Data Storytelling Techniques
+
+---
+
 
 📂 Project Workflow
 
