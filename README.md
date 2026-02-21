@@ -1,5 +1,4 @@
 <h1 align="center">
-  📊 Online Courses Analysis Dashboard
 </h1>
 
 <p align="center">
