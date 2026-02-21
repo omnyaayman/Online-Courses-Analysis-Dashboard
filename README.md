@@ -1,4 +1,11 @@
-📊 Online Courses Analysis Dashboard – Power BI
+<h1 align="center">
+  📊 Online Courses Analysis Dashboard
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=0E76A8&center=true&vCenter=true&width=700&lines=Power+BI+Business+Intelligence+Project;End-to-End+Data+Analysis+Solution;Data+Modeling+%7C+DAX+%7C+Visualization" />
+</p>
+
 🚀 Project Overview
 
 This project presents an end-to-end Business Intelligence solution built using Power BI to analyze online courses data and generate actionable insights.
