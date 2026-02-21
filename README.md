@@ -59,6 +59,30 @@ Web Development dominates subscriber count, indicating strong and consistent mar
 
 ---
 
+
+## 📊 Dashboard Preview
+
+Here are some visuals from the Power BI dashboard: 
+
+<img width="1146" height="638" alt="Screenshot 2026-02-21 224756" src="https://github.com/user-attachments/assets/b88a79ab-19c9-41fd-ba23-4e863267fd9e" />
+
+
+---
+
+
+<img width="1147" height="634" alt="Screenshot 2026-02-21 224805" src="https://github.com/user-attachments/assets/86acb5e5-8a10-4760-8b29-8e4ff8e6a6e4" />
+
+
+---
+
+
+<img width="1134" height="653" alt="Screenshot 2026-02-21 224816" src="https://github.com/user-attachments/assets/73189ddb-55f8-4e98-bb22-bbd143eb56eb" />
+
+
+---
+
+
+
 🔹 2. Price Analysis Page
 
 This page focuses on pricing strategies and user behavior patterns:
